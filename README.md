@@ -1,4 +1,4 @@
 # hello-world
 This is for testing github santanu
-Santanu Kumar Sarangi
+Shreyash Sarangi
 Testing 2
